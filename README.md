@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Leonardo Caixeta</h1>
-<h3 align="center">Desenvolvedor Back-End apaixonado por códigos limpos e pouco verbosos. Utilizo de linguagens como JavaScript (Node.js) com TypeScript.</h3>
+<h3 align="center">Desenvolvedor Back-End apaixonado por códigos limpos e pouco verbosos. Utilizo de linguagens como JavaScript (Node.js), TypeScript e C#.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
